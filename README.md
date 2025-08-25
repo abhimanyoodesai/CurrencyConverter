@@ -35,9 +35,10 @@ A .NET 8 application for converting currencies and tracking conversion history. 
    docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=YourStrong!Passw0rd" -p 1433:1433 --name sqlserver-2022 -d mcr.microsoft.com/mssql/server:2022-latest
 
 3. Apply database migrations:
-    dotnet ef database update --project CurrencyConverter.DataAccess
+    - dotnet ef database update --project CurrencyConverter.DataAccess
+    - Update-Database (if using the Package Manager Console).
 
-4. Build and run the application:
+5. Build and run the application:
 
 
 ## API Endpoints
@@ -56,5 +57,7 @@ A .NET 8 application for converting currencies and tracking conversion history. 
 - `BackgroundJobs/` - Background services for periodic tasks
 - `Tests/` - Unit and integration tests
 
-## License
-
+## Note 
+- Use the following credentials to obtain the token:
+- Username: testUser
+- Password: testPassword
