@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.deps.json
+C:\Users\HP\source\repos\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\HP\source\repos\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\HP\source\repos\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.DataAccess.dll
+C:\Users\HP\source\repos\CurrencyConverter.Application\bin\Debug\net8.0\CurrencyConverter.DataAccess.pdb
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.AssemblyInfo.cs
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\Currency.FC9E407D.Up2Date
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.dll
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\refint\CurrencyConverter.Application.dll
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\CurrencyConverter.Application.pdb
+C:\Users\HP\source\repos\CurrencyConverter.Application\obj\Debug\net8.0\ref\CurrencyConverter.Application.dll
